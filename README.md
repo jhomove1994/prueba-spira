@@ -14,3 +14,8 @@ Desarrollo prueba tecnica spira
 
 11. Seguir pasos repositorio front
 https://github.com/jhomove1994/prueba-spira-front
+
+
+# Datos de administrador
+usuario: administrador@email.com
+clave: secret
